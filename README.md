@@ -65,5 +65,5 @@ This project is an interactive **IPL Data Analysis Dashboard** built using **Pow
 
 LinkedIn: 
 www.linkedin.com/in/nuthalapati-chaitanya-sri-4a786b349
-GitHub: *(Add your GitHub profile)*
+GitHub: http://github.com/chaitanyasri-23
 
